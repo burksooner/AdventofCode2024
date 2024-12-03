@@ -4,7 +4,7 @@ Solutions for Advent of Code 2024 - Python
 ## Progress Tracker
 
 - [x] Day 1 - Complete
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
