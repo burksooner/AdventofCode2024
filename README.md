@@ -33,3 +33,4 @@ Solutions for Advent of Code 2024 - Python
 - [ ] Day 28
 - [ ] Day 29
 - [ ] Day 30
+- [ ] Day 31
